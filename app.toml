@@ -53,3 +53,6 @@ targets = ["windows", "macos-apple-silicon", "macos-intel"]
 
 # How long to keep intermediate artifacts (release assets are unaffected).
 artifact_retention_days = 3
+
+name="DailySalesSummary"
+display_name="Daily Sales Summary"
